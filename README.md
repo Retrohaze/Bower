@@ -1,2 +1,2 @@
 # Bower
-botstrap template
+bootsrap template
